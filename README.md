@@ -1,19 +1,20 @@
 # Hidden Leaf Library
 
-![carousel](https://user-images.githubusercontent.com/72149133/178512260-7330118d-f5c8-47a8-aa40-0a9357ab2db7.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178512260-7330118d-f5c8-47a8-aa40-0a9357ab2db7.jpg" width="400" height="220">
+</p>
 
 ## Latar Belakang
 ### Edukasi
-![gambar](https://user-images.githubusercontent.com/72149133/178511987-8f20a2ae-63c7-4ce8-967c-642b161e81ed.png)
 Perpustakaan merupakan sarana pendidikan nonformal dan informal, artinya perpustakaan merupakan tempat belajar di luar bangku sekolah maupun juga tempat belajar dalam lingkungan pendidikan sekolah. Berkaca pada ungkapan Staf Khusus Presiden RI Adamas Belva Syah Devara yang mengungkapkan bahwa perlu usaha keras dan waktu yang sangat panjang untuk mengejar kualitas ketertinggalan pendidikan Indonesia dengan negara maju. Maka dengan hal tersebut kami membantu dalam layanan pendidikan nonformal dan informal dengan penyediaan peminjaman buku.
 ### Virus Corona
-![gambar](https://user-images.githubusercontent.com/72149133/178512094-fc292920-3c70-4f4e-a23d-205a6c61fcde.png)
 Pada masa di tengah pandemi seperti ini, tentunya akan sangat sulit untuk mencari bahan pembelajaran yang kredibel dan tentu akan sangat sulit untuk bertatap muka secara langsung. Dengan adanya website ini diharapkan dapat meminimilasir penyebaran COVID-19 dengan mengurangi kontak fisik, dikarenakan peminjaman buku dapat dilakukan secara online yang mana dapat terlihat macam-macam buku yang terdapat pada perpustakaan.
 
 ## Deskripsi
-![Gambar1](https://user-images.githubusercontent.com/72149133/178512792-0763dc13-ec05-4cae-bd0c-4fa1d74c38a8.png)
-![Gambar2](https://user-images.githubusercontent.com/72149133/178512816-70cf034a-9f3c-4f5c-b319-9a9162b43cbe.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72149133/178512792-0763dc13-ec05-4cae-bd0c-4fa1d74c38a8.png" width="400" height="220">
+<img src="https://user-images.githubusercontent.com/72149133/178512816-70cf034a-9f3c-4f5c-b319-9a9162b43cbe.png" width="100" height="220">
+</p>
 Tujuan utama dari Hidden Leaf Library adalah bertindak sebagai pusat komunitas yang dinamis yang menyediakan bahan dan layanan untuk meningkatkan pengetahuan individu, menawarkan kesenangan pribadi, memperluas sumber daya teknologi, dan mefasilitasi interaksi sipil.
 
 ## Fitur
