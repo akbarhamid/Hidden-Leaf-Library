@@ -1,7 +1,7 @@
 # Hidden Leaf Library
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72149133/178512260-7330118d-f5c8-47a8-aa40-0a9357ab2db7.jpg" width="400" height="220">
+<img src="https://user-images.githubusercontent.com/72149133/178512260-7330118d-f5c8-47a8-aa40-0a9357ab2db7.jpg" width="600" height="330">
 </p>
 
 ## Latar Belakang
