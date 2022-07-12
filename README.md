@@ -13,7 +13,7 @@ Pada masa di tengah pandemi seperti ini, tentunya akan sangat sulit untuk mencar
 ## Deskripsi
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72149133/178512792-0763dc13-ec05-4cae-bd0c-4fa1d74c38a8.png" width="400" height="220">
-<img src="https://user-images.githubusercontent.com/72149133/178512816-70cf034a-9f3c-4f5c-b319-9a9162b43cbe.png" width="100" height="220">
+<img src="https://user-images.githubusercontent.com/72149133/178512816-70cf034a-9f3c-4f5c-b319-9a9162b43cbe.png" width="120" height="220">
 </p>
 Tujuan utama dari Hidden Leaf Library adalah bertindak sebagai pusat komunitas yang dinamis yang menyediakan bahan dan layanan untuk meningkatkan pengetahuan individu, menawarkan kesenangan pribadi, memperluas sumber daya teknologi, dan mefasilitasi interaksi sipil.
 
