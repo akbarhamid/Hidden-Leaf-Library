@@ -21,13 +21,13 @@ Tujuan utama dari Hidden Leaf Library adalah bertindak sebagai pusat komunitas y
 ### Pengunjung
 1. Sign Up & Login
 2. Service
-   - Choose Collection
-   - Request Purchase
-   - Research & Homework Help
-   - Book Discuission
+- Choose Collection
+- Request Purchase
+- Research & Homework Help
+- Book Discuission
 3. Abou Us
-   - Contact
-   - Location & Hours
+- Contact
+- Location & Hours
 ### Admin
 1. Melakukan CRUD daftar user
 2. Melakukan CRUD daftar buku
